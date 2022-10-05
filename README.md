@@ -50,8 +50,10 @@ PyAutoGUI | 0.9.53
 3输入python main.py,出现INFO: Created TensorFlow Lite XNNPACK delegate for CPU.表示成功运行。
 ![image](https://user-images.githubusercontent.com/81380030/194018842-2782e94f-a7c6-462e-8b44-ea8baa7c92b8.png)
 
-操作实例：
+操作实例（伸出五指为退出）：
+
 ![image](https://user-images.githubusercontent.com/81380030/194019108-6a163b05-8ad7-4310-b08b-f10d8c17e092.png)
+
 ![image](https://user-images.githubusercontent.com/81380030/194019168-d15370fa-e511-40a8-982f-458085af9ffa.png)
 
 
