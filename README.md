@@ -1,7 +1,7 @@
 # Air_Cursor
 基于mediapipe的手势识别光标
 
-#——环境搭建 
+# ——环境搭建 
 依赖表：
 
 依赖名称 | 版本
@@ -17,7 +17,7 @@ PyAutoGUI | 0.9.53
 的教程，强烈建议按照下述步骤进行安装。如果不想使用 anaconda，可以参考上面的依赖
 表自行搭建环境。
 
-#步骤一：安装 anaconda
+# 步骤一：安装 anaconda
 
 1 解压/完整项目以及使用说明/在 anaconda 官网下载安装程序
 
@@ -26,7 +26,7 @@ PyAutoGUI | 0.9.53
 ![image](https://user-images.githubusercontent.com/81380030/194018140-030940b0-cb8b-4aac-98de-a03b2211de64.png)
 
 
-#步骤二：安装空气光标（Air Cursor）的环境依赖
+# 步骤二：安装空气光标（Air Cursor）的环境依赖
 
 1 解压/Air_Cursor ver0.1.5(alpha)/并放置于英文路径下
 ![image](https://user-images.githubusercontent.com/81380030/194018233-c41bd39c-beb4-404e-b796-cf1aaf71983c.png)
