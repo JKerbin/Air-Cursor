@@ -1,0 +1,12 @@
+name: Air-Cursor
+channels:
+- defaults
+dependencies:
+- python=3.8.13
+- pip
+- pip:
+  - mediapipe==0.8.9
+  - autopy==4.0.0
+  - opencv-python==4.5.5.64
+  - pywin32==225
+  - PyAutoGUI==0.9.53
