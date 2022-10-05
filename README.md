@@ -1,7 +1,9 @@
 # Air_Cursor
 基于mediapipe的手势识别光标
+
 ——环境搭建 
 依赖表：
+
 依赖名称 | 版本
 -|-
 Python | 3.8.13
@@ -10,6 +12,7 @@ autopy | 4.0.0
 opencv-python | 4.5.5.64
 pywin32 | 225
 PyAutoGUI | 0.9.53
+
 建议使用 anaconda 安装搭建虚拟环境运行本项目，本说明仅提供使用 anaconda 搭建环境
 的教程，强烈建议按照下述步骤进行安装。如果不想使用 anaconda，可以参考上面的依赖
 表自行搭建环境。
